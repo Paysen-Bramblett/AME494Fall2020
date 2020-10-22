@@ -1,11 +1,11 @@
-# Assignment 4
-`Due Oct 13, before end class`
+# Assignment 6
+`Due ??????, before end class`
 
 
 ## Task
 
-Deploy `captureDataServer` on AWS EC2. Make sure your watch sends the
-Accelerameter data to this server.
+led work with slider example....
+the screen also dims but the leds do which is the goal
 
 ## Submission
 Code on Github. Demo in class.
