@@ -11,11 +11,11 @@ TFT_eSPI *tft;
 BMA *sensor;
 
 
-const char* ssid = "forkthedebt";
-const char* password = "EAWSucks";
+const char* ssid = "EAWSucks";
+const char* password = "forkthedebt";
 
 //Your Domain name with URL path or IP address with path
-const char* serverName = "http:// 3.18.36.115:1234/sendData";
+const char* serverName = "http://3.18.36.115:1234/sendData";
 
 // the following variables are unsigned longs because the time, measured in
 // milliseconds, will quickly become a bigger number than can be stored in an int.
